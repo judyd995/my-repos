@@ -1,0 +1,41 @@
+
+.reposname{
+    background: linear-gradient(30deg,aqua,purple);
+    border-radius:  5px;
+    width:150px;
+    font-size: 20px;
+    margin-left: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
+
+.tex1repos {
+        display: flex;
+        justify-content: center;
+        font-size: 16px;
+        font-weight: 100;
+}
+.boxes{
+    background: linear-gradient(30deg,rgb(184, 190, 190),rgb(49, 12, 49));
+    border-radius:  5px;
+    width:150px;
+    height: 30px;
+    margin-left: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     display: flex;
+
+}
+.linkclass{
+    background: linear-gradient(30deg,aqua,purple);
+    border-radius:  5px;
+    color:#000000;
+    font-size: 17px;
+    margin-left: 40px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+     font-weight: 100;
+    
+
+}
